@@ -3,6 +3,10 @@
 [![ Blog ](https://img.shields.io/website?label=Netlify&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://alone0rc.netlify.app)
 [![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayron.8/)
 [![ Dev.To ](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/alone0rc)
+[![ Facebook ](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dayron.romero.56)
+[![ Github ](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XxShadowProXllr)
+[![ Reddit ](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Last-Cat125)
+[![ CodePen ](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/XxShadowProXllr)
 
 <div>
  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=XxShadowProXllr&show_icons=true&theme=dark&count_private=true">
