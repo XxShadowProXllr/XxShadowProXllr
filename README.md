@@ -1,4 +1,5 @@
-##  ¡Hola!, Bienvenid@s a mi perfil! 🖐️
+##  ¡Hola!, Bienvenid@s a mi perfil encontraras cosas sabrosas! 🖐️
+![giphy](https://user-images.githubusercontent.com/50802338/204911878-c930a03a-ad18-446a-9291-fb270036bd6e.gif)
 
 [![ Blog ](https://img.shields.io/website?label=Netlify&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://alone0rc.netlify.app)
 [![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayron.8/)
