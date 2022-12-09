@@ -9,8 +9,8 @@
 [![ CodePen ](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/XxShadowProXllr)
 
 <div>
- <img width="42%" src="https://github-readme-stats.vercel.app/api?username=XxShadowProXllr&show_icons=true&theme=dark&count_private=true">
- <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxShadowProXllr&theme=dark">
+ <img width="100%" src="https://github-readme-stats.vercel.app/api?username=XxShadowProXllr&show_icons=true&theme=dark&count_private=true">
+ <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxShadowProXllr&theme=dark">
 </div>
 
 ##  Tecnologias Usadas a Diario
